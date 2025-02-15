@@ -1,0 +1,18 @@
+[submodule "pis-frontend"]
+	path = pis-frontend
+	url = git@github.com:Kapturz0ny/pis-frontend.git
+[submodule "pis-user-management-api"]
+	path = pis-user-management-api
+	url = git@github.com:Kapturz0ny/pis-user-management-api.git
+[submodule "pis-book-rent-api"]
+	path = pis-book-rent-api
+	url = git@github.com:Kapturz0ny/pis-book-rent-api.git
+[submodule "pis-books-api"]
+	path = pis-books-api
+	url = git@github.com:Kapturz0ny/pis-books-api.git
+[submodule "pis-auth-api"]
+	path = pis-auth-api
+	url = git@github.com:Kapturz0ny/pis-auth-api.git
+[submodule "pis-gateway-api"]
+	path = pis-gateway-api
+	url = git@github.com:Kapturz0ny/pis-gateway-api.git
